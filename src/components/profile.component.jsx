@@ -8,7 +8,7 @@ const Profile = () => {
   <img src="/images/hero.svg" alt="image" id="profile__img"/>
   </div>
       <p className="font-bold text-lg" id="twitter">Foluke Odus</p>
-      <p className="font-bold text-lg hidden" id="slack">Foluke Odusanya</p>
+      <p className="font-bold text-lg hidden" id="slack">FolukeOdus</p>
 
     </div>
   );
